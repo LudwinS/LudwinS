@@ -21,5 +21,5 @@ Estudiante de 3.er año de **Ingeniería en Sistemas y Redes Informáticas** en 
 
 ## 📫 Contacto
 
-- LinkedIn: [tu-perfil](https://www.linkedin.com/in/TU-PERFIL)
+- LinkedIn: [link](https://www.linkedin.com/in/TU-PERFIL)
 - Correo: tu.correo.profesional@ejemplo.com
